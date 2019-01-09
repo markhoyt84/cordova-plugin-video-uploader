@@ -1,0 +1,34 @@
+{
+  "_from": "cordova-plugin-video-uploader",
+  "_id": "cordova-plugin-video-uploader@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-pf3SVIwdfiDTNlDKJYkTuhj7/NY=",
+  "_location": "/cordova-plugin-video-uploader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-video-uploader",
+    "name": "cordova-plugin-video-uploader",
+    "escapedName": "cordova-plugin-video-uploader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shasum": "a5fdd2548c1d7e20d33650ca258913ba18fbfcd6",
+  "_spec": "cordova-plugin-video-uploader",
+  "_where": "/Users/markhoyt/Desktop/StreetKingpinsIonic/mobile",
+  "author": {
+    "name": "Mark Hoyt"
+  },
+  "deprecated": false,
+  "description": "Cordova Video uploader Plugin",
+  "keywords": [],
+  "license": "MIT",
+  "name": "cordova-plugin-video-uploader",
+  "version": "1.0.0"
+}
